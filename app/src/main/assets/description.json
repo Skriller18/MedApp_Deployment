@@ -1,0 +1,165 @@
+{
+    "labels": [
+      {
+        "name": "AloeVera",
+        "description_file": "AloeVera.txt"
+      },
+      {
+        "name": "Amla",
+        "description_file": "Amla.txt"
+      },
+      {
+        "name": "Amruta_Balli",
+        "description": "Amruta_Balli.txt"
+      },
+      {
+        "name": "Arali",
+        "description_file": "Arali.txt"
+      },
+      {
+        "name": "Ashoka",
+        "description_file": "Ashoka.txt"
+      },
+      {
+        "name": "Ashwagandha",
+        "description_file": "Ashwagandha.txt"
+      },
+      {
+        "name": "Avacado",
+        "description_file": "Avacado.txt"
+      },
+      {
+        "name": "Bamboo",
+        "description_file": "Bamboo.txt"
+      },
+      {
+        "name": "Basale",
+        "description_file": "Basale.txt"
+      },
+      {
+        "name": "Betel",
+        "description_file": "Betel.txt"
+      },
+      {
+        "name": "Betel_Nut",
+        "description_file": "Betel-Nut.txt"
+      },
+      {
+        "name": "Brahmi",
+        "description_file": "Brahmi.txt"
+      },
+      {
+        "name": "Castor",
+        "description_file": "Castor.txt"
+      },
+      {
+        "name": "Curry_Leaf",
+        "description_file": "Curry_leaf.txt"
+      },
+      {
+        "name": "Doddapatre",
+        "description_file": "Doddapatre.txt"
+      },
+      {
+        "name": "Ekka",
+        "description_file": "Ekka.txt"
+      },
+      {
+        "name": "Ganike",
+        "description_file": "Ganike.txt"
+      },
+      {
+        "name": "Gauva",
+        "description_file": "Gauva.txt"
+      },
+      {
+        "name": "Geranium",
+        "description_file": "Geranium.txt"
+      },
+      {
+        "name": "Henna",
+        "description_file": "Henna.txt"
+      },
+      {
+        "name": "Hibiscus",
+        "description_file": "Hibiscus.txt"
+      },
+      {
+        "name": "Honge",
+        "description_file": "Honge.txt"
+      },
+      {
+        "name": "Insulin",
+        "description_file": "Insulin.txt"
+      },
+      {
+        "name": "Jasmine",
+        "description_file": "Jasmine.txt"
+      },
+      {
+        "name": "Lemon",
+        "description_file": "Lemon.txt"
+      },
+      {
+        "name": "Lemon_grass",
+        "description_file": "Lemon_grass.txt"
+      },
+      {
+        "name": "Mango",
+        "description_file": "Mango.txt"
+      },
+      {
+        "name": "Mint",
+        "description_file": "Mint.txt"
+      },
+      {
+        "name": "Nagadali",
+        "description_file": "Nagadali.txt"
+      },
+      {
+        "name": "Neem",
+        "description_file": "Neem.txt"
+      },
+      {
+        "name": "Nithyapushpa",
+        "description_file": "Nithyapushpa.txt"
+      },
+      {
+        "name": "Nooni",
+        "description_file": "Nooni.txt"
+      },
+      {
+        "name": "Pappaya",
+        "description_file": "Papaya.txt"
+      },
+      {
+        "name": "Pepper",
+        "description_file": "Pepper.txt"
+      },
+      {
+        "name": "Pomegranate",
+        "description_file": "Pomegranate.txt"
+      },
+      {
+        "name": "Raktachandini",
+        "description_file": "Raktachandini.txt"
+      },
+      {
+        "name": "Rose",
+        "description_file": "Rose.txt"
+      },
+      {
+        "name": "Sapota",
+        "description_file": "Sapota.txt"
+      },
+      {
+        "name": "Tulasi",
+        "description_file": "Tulasi.txt"
+      },
+      {
+        "name": "Wood_sorel",
+        "description_file": "Wood_Sorel.txt"
+      }
+    ]
+  }
+  

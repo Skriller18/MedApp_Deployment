@@ -1,0 +1,165 @@
+{
+    "labels": [
+      {
+        "name": "AloeVera",
+        "description_file": "C:/Projects/MedPlant/Descriptions/AloeVera.txt"
+      },
+      {
+        "name": "Amla",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Amla.txt"
+      },
+      {
+        "name": "Amruta_Balli",
+        "description": "C:/Projects/MedPlant/Descriptions/Amruta_Balli.txt"
+      },
+      {
+        "name": "Arali",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Arali.txt"
+      },
+      {
+        "name": "Ashoka",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Ashoka.txt"
+      },
+      {
+        "name": "Ashwagandha",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Ashwagandha.txt"
+      },
+      {
+        "name": "Avacado",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Avacado.txt"
+      },
+      {
+        "name": "Bamboo",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Bamboo.txt"
+      },
+      {
+        "name": "Basale",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Basale.txt"
+      },
+      {
+        "name": "Betel",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Betel.txt"
+      },
+      {
+        "name": "Betel_Nut",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Betel-Nut.txt"
+      },
+      {
+        "name": "Brahmi",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Brahmi.txt"
+      },
+      {
+        "name": "Castor",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Castor.txt"
+      },
+      {
+        "name": "Curry_Leaf",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Curry_leaf.txt"
+      },
+      {
+        "name": "Doddapatre",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Doddapatre.txt"
+      },
+      {
+        "name": "Ekka",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Ekka.txt"
+      },
+      {
+        "name": "Ganike",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Ganike.txt"
+      },
+      {
+        "name": "Gauva",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Gauva.txt"
+      },
+      {
+        "name": "Geranium",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Geranium.txt"
+      },
+      {
+        "name": "Henna",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Henna.txt"
+      },
+      {
+        "name": "Hibiscus",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Hibiscus.txt"
+      },
+      {
+        "name": "Honge",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Honge.txt"
+      },
+      {
+        "name": "Insulin",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Insulin.txt"
+      },
+      {
+        "name": "Jasmine",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Jasmine.txt"
+      },
+      {
+        "name": "Lemon",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Lemon.txt"
+      },
+      {
+        "name": "Lemon_grass",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Lemon_grass.txt"
+      },
+      {
+        "name": "Mango",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Mango.txt"
+      },
+      {
+        "name": "Mint",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Mint.txt"
+      },
+      {
+        "name": "Nagadali",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Nagadali.txt"
+      },
+      {
+        "name": "Neem",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Neem.txt"
+      },
+      {
+        "name": "Nithyapushpa",
+        "description_file": "C:/Projects/MedPlant/Descriptions/Nithyapushpa.txt"
+      },
+      {
+        "name": "Nooni",
+        "description_file": "/path/to/description.txt"
+      },
+      {
+        "name": "Pappaya",
+        "description_file": "/path/to/description.txt"
+      },
+      {
+        "name": "Pepper",
+        "description_file": "/path/to/description.txt"
+      },
+      {
+        "name": "Pomegranate",
+        "description_file": "/path/to/description.txt"
+      },
+      {
+        "name": "Raktachandini",
+        "description_file": "/path/to/description.txt"
+      },
+      {
+        "name": "Rose",
+        "description_file": "/path/to/description.txt"
+      },
+      {
+        "name": "Sapota",
+        "description_file": "/path/to/description.txt"
+      },
+      {
+        "name": "Tulasi",
+        "description_file": "/path/to/description.txt"
+      },
+      {
+        "name": "Wood_sorel",
+        "description_file": "/path/to/description.txt"
+      }
+    ]
+  }
+  
