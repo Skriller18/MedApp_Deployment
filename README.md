@@ -71,3 +71,7 @@ These permissions are declared in the AndroidManifest.xml file.
 ├── [local.properties](http://_vscodecontentref_/6)
 └── [settings.gradle.kts](http://_vscodecontentref_/7)
 ```
+## Apk file location 
+```bash
+app\release\app-release.apk
+```
