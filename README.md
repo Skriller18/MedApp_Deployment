@@ -5,7 +5,7 @@ MedApp is an Android application that allows users to take pictures or select im
 ## Prerequisites
 
 - Android Studio
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 17 or higher
 - Android SDK
 - Gradle
 
